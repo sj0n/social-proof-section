@@ -1,0 +1,22 @@
+@use 'color';
+
+
+.font-grey-magenta-1 {
+    color: color.$neutral-light-greyishmagenta;
+}
+
+.font-softpink-1 {
+    color: color.$primary-softpink;
+}
+
+.font-white-1 {
+    color: color.$neutral-white;
+}
+
+.fw-500 {
+    font-weight: 500;
+}
+
+.br-circle {
+    border-radius: 100%;
+}
